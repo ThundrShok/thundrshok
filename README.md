@@ -1,4 +1,4 @@
-### [Youtube](https://www.youtube.com/channel/UCncL3LWunQw2_-BiiR3i_wg) | [Twitch](https://www.twitch.tv/thundrshok) | [Instagram](https://www.instagram.com/thundrshok/) | [itch.io](https://thundrshok.itch.io/) | [website](https://thundrshok.github.io/website/)
+### [Youtube](https://www.youtube.com/channel/UCncL3LWunQw2_-BiiR3i_wg) | [Twitch](https://www.twitch.tv/thundrshok) | [itch.io](https://thundrshok.itch.io/) | [website](https://thundrshok.github.io/shok/)
 
 <!--
 **ThundrShok/thundrshok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
